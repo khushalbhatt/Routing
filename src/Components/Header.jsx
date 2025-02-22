@@ -1,7 +1,5 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import Dashboard from './Dashboard';
-
 
 function Header() {
     const navigate = useNavigate();
